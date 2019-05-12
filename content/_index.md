@@ -2,7 +2,9 @@
 title: "Powerful sample dissection pipeline"
 ---
 # What is aleph
-Aleph is an opensource sample dissection pipeline built on top of [celery](http://www.celeryproject.org/), which makes it easily scalable and reliable. Also is built with abstraction and microservices in the heart. The platform is easily extensible through its components system. Aleph is made with threat intelligence researchers and malware reverse engineers in mind!
+Aleph is a fully asynchronous opensource sample dissection pipeline built on top of [celery](http://www.celeryproject.org/), which makes it easily scalable and reliable. Also is built with abstraction and microservices in the heart. The platform is easily extensible through its components system. 
+
+Aleph is made with threat intelligence researchers and malware reverse engineers in mind!
 
 ---
 
