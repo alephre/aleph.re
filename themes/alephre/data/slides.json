@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Unspervised operation",
+        "text": "Streamline process allows you to gather and process samples without human interaction",
+        "image": "slide-0.png"
+    },
+    {
+        "title": "Powerful data extraction",
+        "text": "Aleph extracts threat-relevant data from samples and index them into searchable datasets",
+        "image": "slide-1.png"
+    },
+    {
+        "title": "Extract data from data",
+        "text": "Metadata such as URLs and domains gets retrofed into the pipeline for data extraction and correlation",
+        "image": "slide-2.png"
+    },
+    {
+        "title": "Beautiful data visualization",
+        "text": "Visualize data as graphs, histograms and more. Correlate samples. Understand the patterns",
+        "image": "slide-3.png"
+    },
+    {
+        "title": "All your tools, combined",
+        "text": "Aleph processors aim to perform as well as their standalone counterparts, in one place, automatically",
+        "image": "slide-4.png"
+    },
+    {
+        "title": "Intelligence analysis",
+        "text": "Perform automated intelligence analysis by combining data from multiple processors",
+        "image": "slide-5.png"
+    }
+]

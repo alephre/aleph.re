@@ -1,0 +1,25 @@
+languageCode: "en-us"
+title: "aleph.re"
+baseurl: "https://aleph.re/"
+theme: "alephre"
+googleAnalytics: 'UA-139994618-1'
+
+disableKinds:
+- taxonomy
+- taxonomyTerm
+
+params:
+    github_url: "https://github.com/alephre"
+    twitter_url: "https://twitter.com/alephre"
+
+menu:
+
+    footer:
+    - identifier: twitter
+      url: https://twitter.com/alephre
+      name: 'Twitter'
+      weight: 1
+    - identifier: github
+      url: https://github.com/alephre
+      name: 'Github'
+      weight: 2

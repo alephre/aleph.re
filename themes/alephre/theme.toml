@@ -1,0 +1,11 @@
+# theme.toml template for a Hugo theme
+
+name = "aleph.re Theme"
+license = "MIT"
+description = "Theme for aleph.re static website"
+homepage = "https://github.com/alephre/aleph.re"
+min_version = 0.30.2
+
+[author]
+  name = "Jan Seidl"
+  homepage = "https://aleph.re"

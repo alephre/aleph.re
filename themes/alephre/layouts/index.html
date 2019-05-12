@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="row justify-content-center">
+    <div class="col-md-12 mb-5">
+        {{ block "carrousel" . }}{{ partial "site-carrousel.html" .}}{{ end }}
+    </div><!-- .col -->
+    <div class="page-content col-md-12">
+    {{ .Content }}
+    </div><!-- .col -->
+    <div class="col-md-12 mt-5">
+    <div class="alert alert-secondary">
+        Buckle up and <a href="{{ .Site.Params.twitter_url }}">follow us on twitter</a> to get updates on the development and be the first to know when we have a release out!
+    </div>
+    </div><!-- .col -->
+</div><!-- .row -->
+{{ end }}
